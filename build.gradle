@@ -17,8 +17,8 @@ repositories {
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.7.0'
-    testImplementation 'com.codeborne:selenide:5.11.0'
-    testCompile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.30'
+    testImplementation 'com.codeborne:selenide:5.16.2'
+
 
 }
 
